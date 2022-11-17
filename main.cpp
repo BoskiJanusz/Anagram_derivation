@@ -1,11 +1,11 @@
 #include <iostream>
-#include <vector>
 #include "Anagram.h"
 
+// Anagram class has constructor to get txt file and two public
+// methods to print anagrams from given in file elements
+
 int main()
-{
-    std::vector<std::string> words = {"ail", "tennis", "nails", "desk", "aliens", "enine", "sail"};
-   
+{   
     Anagram anagram("words.txt");
     anagram.printGivenLine(1);
 

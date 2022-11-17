@@ -1,2 +1,6 @@
 ail,tennis,nails,desk,aliens,enine,sail,
 ail,tennip,nailp,depk,alienp,enine,pail,
+air,pairs,loop,pair,lines,
+hot,
+tao,lotta,ritual,tola,auco,iota,titular,tutorial,
+tao,lotta,lottar,tola,auco,iota,totular,tutorial,
